@@ -1,0 +1,11 @@
+Asset,Asset Class,Sector
+RELIANCE.NS,Equity,Energy
+TCS.NS,Equity,IT
+HDFCBANK.NS,Equity,Banking
+ICICIBANK.NS,Equity,Banking
+INFY.NS,Equity,IT
+NIFTYBEES.NS,ETF,Index ETF
+GOLDBEES.NS,ETF,Gold ETF
+SILVERBEES.NS,ETF,Silver ETF
+BTC-INR,Crypto,Cryptocurrency
+ETH-INR,Crypto,Cryptocurrency
